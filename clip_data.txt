@@ -1,0 +1,263 @@
+Sign Language Clip Data:
+========================================
+Clip 0: "."
+Start: 00:00:00,000, End: 00:00:08,200
+----------------------------------------
+Clip 2: "Itäraja kokonaan säppiin."
+Start: 00:00:06,200, End: 00:00:12,200
+----------------------------------------
+Clip 5: "Sisäministeri Mari Rantanen,
+tervetuloa A-studioon. -Kiitos."
+Start: 00:00:21,040, End: 00:00:38,680
+----------------------------------------
+Clip 6: "-Venäjän maaraja suljetaan kahdeksi
+viikoksi keskiviikkona kello 24."
+Start: 00:00:39,360, End: 00:00:44,880
+----------------------------------------
+Clip 7: "Riittääkö tämä lopettamaan
+Venäjän hybridivaikuttamisen?"
+Start: 00:00:47,360, End: 00:00:51,040
+----------------------------------------
+Clip 8: "-Nyt tietenkin seuraamme
+päätöksen vaikutuksia ja sitä, -"
+Start: 00:00:52,920, End: 00:00:56,120
+----------------------------------------
+Clip 10: "Sitähän me tietenkin toivotaan,
+sen vuoksi tää päätös on tehty, -"
+Start: 00:01:01,440, End: 00:01:05,800
+----------------------------------------
+Clip 12: "että emme hyväksy toimintaa,
+jota Venäjän viranomaiset tekee -"
+Start: 00:01:01,440, End: 00:01:11,960
+----------------------------------------
+Clip 13: "ja tuottaa meille
+kolmansien maiden ihmisiä."
+Start: 00:01:16,880, End: 00:01:19,400
+----------------------------------------
+Clip 14: "-Päivän päätöksellä, kuten näkyy, -"
+Start: 00:01:21,040, End: 00:01:23,200
+----------------------------------------
+Clip 15: "itärajan yhdeksän raja-asemaa
+ovat kiinni kaksi viikkoa."
+Start: 00:01:23,800, End: 00:01:27,040
+----------------------------------------
+Clip 17: "tämän turvapaikkamasinoinnin
+torppaamiseksi?"
+Start: 00:01:32,840, End: 00:01:35,640
+----------------------------------------
+Clip 18: "-Tää päätös
+on erittäin järeä toimenpide."
+Start: 00:01:38,480, End: 00:01:41,640
+----------------------------------------
+Clip 19: "Itäraja ei ole ollut kiinni
+moneen kymmeneen vuoteen."
+Start: 00:01:42,000, End: 00:01:46,560
+----------------------------------------
+Clip 20: "Silloin kun tehdään tämmösiä
+varsin järeitä toimenpiteitä, -"
+Start: 00:01:47,040, End: 00:01:52,760
+----------------------------------------
+Clip 22: "Me seuraamme koko ajan
+näitä vaikutuksia, -"
+Start: 00:01:55,320, End: 00:01:59,480
+----------------------------------------
+Clip 23: "niiden perusteella toimitaan."
+Start: 00:02:00,640, End: 00:02:03,160
+----------------------------------------
+Clip 25: "mutta mikäli se jatkuu,
+niin tätä päätöstä tullaan jatkamaan."
+Start: 00:02:12,440, End: 00:02:14,480
+----------------------------------------
+Clip 26: "-Historiallinen päätöshän tämä on.
+Tuliko kaksi viikkoa laista?"
+Start: 00:02:18,080, End: 00:02:20,360
+----------------------------------------
+Clip 27: "Eikö laki mahdollistanut pidempää,
+vai onko näkemys, -"
+Start: 00:02:21,960, End: 00:02:24,360
+----------------------------------------
+Clip 28: "että kahdessa viikossa
+ilmiö tyrehtyy?"
+Start: 00:02:25,320, End: 00:02:27,760
+----------------------------------------
+Clip 29: "-Ei, mutta kun tehdään
+näin järeitä toimenpiteitä, -"
+Start: 00:02:28,360, End: 00:02:31,000
+----------------------------------------
+Clip 30: "on viisasta rajoittaa sitä
+ajallisesti lyhyemmäksi, -"
+Start: 00:02:32,960, End: 00:02:36,160
+----------------------------------------
+Clip 31: "jolloin se on oikeudellisesti
+ehkäpä helpompi perustella."
+Start: 00:02:37,400, End: 00:02:40,000
+----------------------------------------
+Clip 32: "Ja se tulee myöskin
+perustuslakivaliokunnan lausunnosta."
+Start: 00:02:41,680, End: 00:02:44,040
+----------------------------------------
+Clip 33: "Siinä todettiin, että voidaan
+lyhyeksi aikaa täyssulku tehdä."
+Start: 00:02:51,120, End: 00:02:53,840
+----------------------------------------
+Clip 34: "-Okei, eli se tuli nimenomaan laista?
+-Kyllä."
+Start: 00:02:54,040, End: 00:02:57,600
+----------------------------------------
+Clip 36: "sunnuntaina kuitenkin vain kolme,
+eilen kaksi ja tänään ei yhtään."
+Start: 00:02:54,040, End: 00:02:58,280
+----------------------------------------
+Clip 37: "Miten tässä valossa voidaan
+perustella rajan järeää sulkua?"
+Start: 00:03:09,720, End: 00:03:12,160
+----------------------------------------
+Clip 38: "-Tässähän ei ole kysymys
+turvapaikkapolitiikasta -"
+Start: 00:03:15,320, End: 00:03:17,760
+----------------------------------------
+Clip 39: "eikä maahanmuuttopolitiikasta eikä
+siten tulevien ihmisten määristä."
+Start: 00:03:19,040, End: 00:03:23,840
+----------------------------------------
+Clip 41: "jossa olemme Venäjän viranomaisten
+hybridioperaation kohteena."
+Start: 00:03:19,040, End: 00:03:22,320
+----------------------------------------
+Clip 42: "Suomeen kohdistetaan
+tällaista painostustointa."
+Start: 00:03:34,880, End: 00:03:39,480
+----------------------------------------
+Clip 43: "Näinpä ollen nämä päätökset
+eivät riipu siitä, -"
+Start: 00:03:40,880, End: 00:03:43,440
+----------------------------------------
+Clip 45: "että potentiaalinen uhka
+on varsin suuri."
+Start: 00:03:40,880, End: 00:03:48,120
+----------------------------------------
+Clip 46: "Sen vuoksi on tässä kohtaa
+syytä toimia ja osoittaa se, -"
+Start: 00:03:54,360, End: 00:03:57,920
+----------------------------------------
+Clip 47: "että emme tätä ilmiötä hyväksy,
+ja tulemme toimimaan sitä vastaan."
+Start: 00:03:57,960, End: 00:04:03,080
+----------------------------------------
+Clip 48: "-Hallituksen tiedotustilaisuudessa
+otettiin esille potentiaalinen uhka."
+Start: 00:04:03,880, End: 00:04:08,360
+----------------------------------------
+Clip 50: "että todennäköisesti olisi
+voimistumassa tämä ilmiö."
+Start: 00:04:12,480, End: 00:04:15,440
+----------------------------------------
+Clip 51: "Mihin tämä perustuu, jos tämä on
+keskeinen syy rajan sulkemiselle?"
+Start: 00:04:19,279, End: 00:04:21,440
+----------------------------------------
+Clip 52: "-Aivan kaikkea en luonnollisesti
+voi tässä kertoa, -"
+Start: 00:04:21,760, End: 00:04:25,800
+----------------------------------------
+Clip 53: "mutta julkisuudessakin
+on ollut nähtävillä se, -"
+Start: 00:04:26,800, End: 00:04:30,000
+----------------------------------------
+Clip 54: "että yhä enemmän kiihtyy
+markkinointi kolmansiin maihin."
+Start: 00:04:32,800, End: 00:04:35,000
+----------------------------------------
+Clip 56: "jotka sisältävät naapurin maan
+viisumin ja jopa polkupyörätkin."
+Start: 00:04:43,520, End: 00:04:45,920
+----------------------------------------
+Clip 58: "Siinäkin mielessä
+potentiaali on erittäin suuri."
+Start: 00:04:44,560, End: 00:04:51,760
+----------------------------------------
+Clip 59: "-Onko tää someen perustuvaa,
+vai onko takana tiedustelutietoja?"
+Start: 00:04:58,320, End: 00:05:00,600
+----------------------------------------
+Clip 60: "Mistä määristä puhutaan, kun
+puhutaan potentiaalisesta uhasta?"
+Start: 00:05:01,920, End: 00:05:04,000
+----------------------------------------
+Clip 61: "-Totesin tässä juuri sen,
+mitä julkisuudessakin on esitetty, -"
+Start: 00:05:05,960, End: 00:05:12,000
+----------------------------------------
+Clip 62: "ja en voi tässä tokikaan
+tiedustelutietoja kertoa, -"
+Start: 00:05:12,960, End: 00:05:16,160
+----------------------------------------
+Clip 64: "Tiedämme siirtolaispaineen, -"
+Start: 00:05:13,040, End: 00:05:18,920
+----------------------------------------
+Clip 65: "mitä kolmansista maista Eurooppaan
+suuntautuu muita reittejä myöden."
+Start: 00:05:24,760, End: 00:05:28,000
+----------------------------------------
+Clip 66: "-Mitä "varsin suuri" tarkoittaa,
+jos sitä konkretisoi?"
+Start: 00:05:29,160, End: 00:05:32,400
+----------------------------------------
+Clip 68: "-Kukin voi katsoa internetistä, -"
+Start: 00:05:24,760, End: 00:05:30,720
+----------------------------------------
+Clip 69: "että paljonko hyvin väkirikkaissa
+maissa esim. Afrikassa on väkeä."
+Start: 00:05:36,560, End: 00:05:40,200
+----------------------------------------
+Clip 70: "Potentiaali on todella suuri."
+Start: 00:05:44,080, End: 00:05:46,200
+----------------------------------------
+Clip 71: "Arvioiden mukaan Venäjällä on
+n. 10 miljoonaa laitonta siirtolaista."
+Start: 00:05:48,520, End: 00:05:52,520
+----------------------------------------
+Clip 72: "Joten potentiaalia on.
+-Siis puhutaan miljoonista?"
+Start: 00:05:56,520, End: 00:05:58,840
+----------------------------------------
+Clip 74: "Ja onko kysymys vain määrästä
+vai myös henkilöiden profiilista?"
+Start: 00:05:56,520, End: 00:06:03,120
+----------------------------------------
+Clip 76: "-Viranomaiset ovat arvioineet,
+että jos määrät nousee, -"
+Start: 00:06:12,120, End: 00:06:18,320
+----------------------------------------
+Clip 77: "siellä välissä ja joukossa
+voi tulla -"
+Start: 00:06:20,200, End: 00:06:22,240
+----------------------------------------
+Clip 78: "myös sisäiselle turvallisuudelle
+vaarallisia henkilöitä."
+Start: 00:06:21,960, End: 00:06:26,800
+----------------------------------------
+Clip 80: "tuli vaarallisia henkilöitä, ja siinä
+mielessä uhka on konkreettinen."
+Start: 00:06:37,760, End: 00:06:39,880
+----------------------------------------
+Clip 81: "-Raja-Jooseppiin tuli vain muutama
+viimeisten päivien aikoina, -"
+Start: 00:06:39,440, End: 00:06:43,720
+----------------------------------------
+Clip 82: "niin onko sulussa kyse enemmän
+potentiaalisesta uhkamäärästä, -"
+Start: 00:06:43,800, End: 00:06:47,640
+----------------------------------------
+Clip 83: "vaiko siitä, että on arvioitu sieltä
+tulevan vaarallisia henkilöitä?"
+Start: 00:06:54,000, End: 00:06:56,280
+----------------------------------------
+Clip 85: "-Vaakakupissa oli kansallinen
+turvallisuus ja sen suojaaminen."
+Start: 00:06:55,680, End: 00:07:04,120
+----------------------------------------
+Clip 86: "Hallituksen ensisijaisia tehtäviä
+on huolehtia siitä, -"
+Start: 00:07:06,960, End: 00:07:09,400
+----------------------------------------
